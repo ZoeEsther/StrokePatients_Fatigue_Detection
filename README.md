@@ -1,6 +1,8 @@
 # Real-time fatigue detection for stroke patients
 
 This project mainly realizes fatigue recognition of stroke patients based on Dlib face key point detection algorithm, and mainly evaluates the fatigue state of patients from three aspects: eye aspect ratio, mouth opening and closing degree, and head pose estimation.
+![image](https://github.com/ZoeEsther/StrokePatients_Fatigue_Detection/assets/119051069/2dafabf0-638f-4810-8382-83ced817e090)
+
 ![image](https://github.com/ZoeEsther/StrokePatients_Fatigue_Detection/assets/119051069/0224861f-2153-46c8-b30a-0c6c5a644cee)
 
 ![image](https://github.com/ZoeEsther/StrokePatients_Fatigue_Detection/assets/119051069/8f4e1720-9829-4769-9f59-89a00c81c0f3)
