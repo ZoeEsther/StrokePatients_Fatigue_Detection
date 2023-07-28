@@ -30,6 +30,7 @@ After successful login, the patient enters the fatigue detection page. Fatigue i
 ![image](https://github.com/ZoeEsther/StrokePatients_Fatigue_Detection/assets/119051069/cd162bfc-e783-4a3d-b54d-e90c9f0e72e4)
 
 The history query page is used to view saved training indicators.
+
 ![image](https://github.com/ZoeEsther/StrokePatients_Fatigue_Detection/assets/119051069/8dde358f-f59d-4c49-9824-8db30ce06970)
 
 ## note
